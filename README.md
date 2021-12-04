@@ -8,7 +8,7 @@ git remote add githubDepo https://github.com/beyzazeliha/kodluyoruzilkrepo.git
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-git commit -m cd kodluyoruzilkrepo
+-cd kodluyoruzilkrepo
 code .
 
 # Contributing
